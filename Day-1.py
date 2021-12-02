@@ -21,3 +21,5 @@ for i in range(3, length):
 
 print(total1)
 print(total2)
+
+#python loop
